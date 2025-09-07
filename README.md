@@ -6,7 +6,7 @@ Perfect for **multitasking** while keeping the video visible.
 ---
 
 ## 🚀 Demo
-- 👉 [](#) <!-- Replace with actual Netlify link -->
+- 👉 [Live Demo](https://devsenpictureinpicture.netlify.app/) <!-- Replace with actual Netlify link -->
 - 🐙 [GitHub Repository](https://github.com/DkS2898/Picture-In-Picture.git)
 
 ---
